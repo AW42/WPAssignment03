@@ -1,0 +1,129 @@
+body{
+    background-color: #1c2b42;
+    background-image:url("https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+.container{
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    background-color: #edf4ff;
+    width: 37%;
+    height: auto;
+    margin-left: 35%;
+    margin-top: 90px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+    padding-top: 40px;
+    border-radius: 50px;
+
+}
+
+
+
+
+h1{
+    margin-left :24%;
+    color:white;
+    font-family: 'Goldman', cursive;
+    font-weight: bold;
+}
+
+
+#btn1, #btn2{
+    width: 70%;
+    box-sizing: border-box;
+    padding: 10px 0;
+    margin-top: 8px;
+    outline: none;
+    border: none;
+    background:#7e2827;
+   
+    border-radius: 20px;
+    color: #fff;
+}
+
+
+#submit1{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px 0;
+    margin-top: 8px;
+    outline: none;
+    border: none;
+  
+    background: #d11d1b;
+    opacity: 0.7;
+    border-radius: 20px;
+    color: #fff;
+
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+input[type=submit]:hover{
+    background-color: crimson;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana;
+}
+
+
+
+
+table{
+    text-align: center;
+}
+table th{
+    background-color: rgb(49, 48, 48);
+    color: #fff;
+}
+table td{
+    background-color: rgb(250, 243, 237);
+    color: rgb(31, 29, 29);
+}
+
+table tr td{
+    width: 30%;
+}
+
+/* 
+#logout{
+    width: 10%;
+    margin-left: 45%;
+    margin-top: 5%;
+    background-color: #914d03;
+} */
+
+
+/* #logout{
+
+    margin-left:60px;
+    width:20%;
+    background-color: #914d03;
+}
+
+
+ */
+
+
+ #submit2{
+
+    width: 23%;
+    box-sizing: border-box;
+    padding: 10px 0;
+    
+    outline: none;
+    border: none;
+  
+    background: #d11d1b;
+    margin-left: 36%;
+    border-radius: 20px;
+    color: #fff;
+
+    margin-top: 8%;
+    margin-bottom: 20%;
+
+ }
